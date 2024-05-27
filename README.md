@@ -1,4 +1,7 @@
 # **Cai cai balão**
+![CapCut 20240527](https://github.com/andreyneto/cai-cai-balao/assets/2815005/5da10543-1f8f-4d1e-90a6-5e76afb60e30)
+
+
 
 ### Descrição Resumida
 
@@ -12,9 +15,9 @@ O jogo será um arcade de ação, combinando elementos de plataforma, shmup (sho
 
 ### História e Enredo
 
-**Premissa Básica:** Na noite de São João, durante a celebração de uma quermesse, vários balões são soltos no céu. O protagonista, Pedrinho, um jovem corajoso e habilidoso da vila, recebe o alerta de que esses balões podem causar incêndios. Sua missão é derrubar os balões e evitar que o fogo se espalhe, salvando assim a festa e a vila.
+**Premissa Básica:** Na noite de São João, durante a celebração de uma quermesse, vários balões são soltos no céu. O protagonista, Pedrinho, um jovem bombeiro corajoso e habilidoso da vila, recebe o alerta de que esses balões podem causar incêndios. Sua missão é derrubar os balões e evitar que o fogo se espalhe, salvando assim a festa e a vila.
 
-**Protagonista:** Pedrinho é um herói local, conhecido por sua bravura e habilidade com um estilingue, que será a principal arma usada para derrubar os balões.
+**Protagonista:** Pedrinho é um herói local, um jovem bombeiro conhecido por sua bravura e habilidade com um estilingue, que será a principal arma usada para derrubar os balões.
 
 **Principais Conflitos ou Objetivos:** O principal objetivo de Pedrinho é derrubar todos os balões que ameaçam causar incêndios, enquanto também controla pequenas chamas que possam surgir no chão.
 

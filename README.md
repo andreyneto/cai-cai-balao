@@ -1,8 +1,24 @@
 # **Cai cai balão**
 ![CapCut 20240527](https://github.com/andreyneto/cai-cai-balao/assets/2815005/5da10543-1f8f-4d1e-90a6-5e76afb60e30)
 *Arte conceitual*
-
-
+#### Índice
+1. [Descrição Resumida](#descrição-resumida)
+2. [Gênero](#gênero)
+3. [Detalhamento do Jogo](#detalhamento-do-jogo)
+    - [História e Enredo](#história-e-enredo)
+    - [Protagonista](#protagonista)
+    - [Mecânicas de Jogo](#mecânicas-de-jogo)
+    - [Níveis e Progressão](#níveis-e-progressão)
+    - [Desafios e Dificuldades](#desafios-e-dificuldades)
+4. [Desenvolvimento](#desenvolvimento)
+    - [Aspectos Visuais e Estilo](#aspectos-visuais-e-estilo)
+    - [Áudio e Música](#áudio-e-música)
+    - [Interface de Usuário (UI)](#interface-de-usuário-ui)
+    - [Narrativa e Diálogos](#narrativa-e-diálogos)
+    - [Objetivos e Metas do Jogo](#objetivos-e-metas-do-jogo)
+    - [Rejogabilidade](#rejogabilidade)
+5. [Cronograma](#cronograma)
+6. [Recursos e Referências](#recursos-e-referências)
 
 ### Descrição Resumida
 

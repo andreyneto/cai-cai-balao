@@ -111,6 +111,10 @@ O jogo será desenvolvido na plataforma Pico-8, uma ferramenta de desenvolviment
 
 **Segredos ou Colecionáveis:** Poderão ser incluídos colecionáveis como fitas de festa escondidas nos níveis.
 
+### Cronograma
+![timeline](https://github.com/andreyneto/cai-cai-balao/assets/2815005/53ef08d0-051c-4b1f-ac38-5d02e569c667)
+*Atualizado em 27/05/2024*
+
 ## Recursos e Referências
 <!-- TODO: Adicionar links de referências durante o processo -->
 **Referências Visuais:** Fotos e vídeos de festas juninas tradicionais.

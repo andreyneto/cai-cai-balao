@@ -61,6 +61,10 @@ O jogo será um arcade de ação, combinando elementos de plataforma, shmup (sho
 
 **Inimigos ou Obstáculos:** As hordas de balões e o boss balão são os principais desafios que o jogador enfrentará.
 
+### Desenvolvimento
+
+O jogo será desenvolvido na plataforma Pico-8, uma ferramenta de desenvolvimento de jogos que combina design de jogos, programação, visual e sonorização em um ambiente integrado. Com recursos limitados, o Pico-8 permite criar jogos com um estilo visual e sonoro retrô, remetendo à era dos consoles de 8 bits.
+
 ### Aspectos Visuais e Estilo
 
 **Estilo Visual:** O jogo será feito em pixel art estilo 8-bit, aproveitando as capacidades do Pico-8 para criar uma estética retrô.

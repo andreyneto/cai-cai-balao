@@ -1,5 +1,6 @@
 # **Cai cai balão**
 ![CapCut 20240527](https://github.com/andreyneto/cai-cai-balao/assets/2815005/5da10543-1f8f-4d1e-90a6-5e76afb60e30)
+*Arte conceitual*
 
 
 
@@ -20,6 +21,21 @@ O jogo será um arcade de ação, combinando elementos de plataforma, shmup (sho
 **Protagonista:** Pedrinho é um herói local, um jovem bombeiro conhecido por sua bravura e habilidade com um estilingue, que será a principal arma usada para derrubar os balões.
 
 **Principais Conflitos ou Objetivos:** O principal objetivo de Pedrinho é derrubar todos os balões que ameaçam causar incêndios, enquanto também controla pequenas chamas que possam surgir no chão.
+
+### Protagonista
+**Nome:** Pedrinho
+
+**Idade:** 28 anos
+
+**Profissão:** Bombeiro
+
+**Descrição Física:** Pedrinho é um homem de estatura média, com uma constituição atlética resultado de anos de treinamento como bombeiro. Seus olhos castanhos escuros refletem determinação e coragem, contrastando com a pele bronzeada pelo sol. Seu cabelo curto e escuro é sempre mantido impecável, enquanto sua expressão tranquila esconde uma mente alerta e pronta para agir.
+
+**Trajes:** No dia a dia, Pedrinho veste o uniforme característico dos bombeiros, composto por uma jaqueta resistente ao fogo, calças robustas, botas de couro e capacete. Sempre pronto para a ação, ele carrega consigo seu equipamento de combate a incêndios, incluindo mangueira e extintor, mas seu principal item é um estilingue, sua especialidade desde criança.
+
+**Personalidade:** Pedrinho é conhecido por sua coragem, determinação e profissionalismo. Ele é um líder nato, capaz de manter a calma mesmo nas situações mais desafiadoras. Sua dedicação ao dever e sua empatia pelas pessoas o tornam um exemplo a ser seguido por seus colegas de equipe.
+
+**História:** Como bombeiro dedicado, Pedrinho escolheu essa profissão para servir e proteger sua comunidade. Cresceu na pequena vila onde a festa junina é uma tradição anual, e desde criança admirava os bombeiros que garantiam a segurança durante as celebrações. Ele sempre soube que queria seguir seus passos e se tornar um herói local. No dia da festa, Pedro estava de plantão, pronto para agir caso surgisse qualquer emergência. No entanto, ele não esperava que a própria festa se transformasse em uma situação de perigo, e agora ele está determinado a proteger sua comunidade contra as chamas e salvar o arraiá que ele tanto ama.
 
 ### Mecânicas de Jogo
 

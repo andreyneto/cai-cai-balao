@@ -5,7 +5,7 @@
 
 ### Descrição Resumida
 
-Durante uma quermesse, Pedrinho é alertado sobre balões que foram soltos e podem causar incêndios. O objetivo do jogo é derrubar esses balões para evitar que eles caiam e iniciem queimadas.
+Durante uma quermesse, Pedrinho é alertado sobre balões que foram soltos e podem causar incêndios. O objetivo do jogo é derrubar esses balões para evitar que eles iniciem queimadas.
 
 ### Gênero
 

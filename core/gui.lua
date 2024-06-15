@@ -1,0 +1,12 @@
+gui=class:extend({
+    init=function(_ENV)
+        noop();
+    end,
+    draw=function(_ENV)
+        rectfill(0,0,127,16,0)
+        rectfill(0,111,127,127,0)
+    end,
+    update=function(_ENV)
+        noop();
+    end
+})

@@ -48,7 +48,7 @@ background=class:extend({
         line(0,y,127,y,gradient[y+1][2])
         end
         fillp()
-        pal()
+        -- pal()
     end,
     update=function(_ENV)
         noop();

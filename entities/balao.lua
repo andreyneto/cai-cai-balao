@@ -8,6 +8,7 @@ balao=entity:extend({
 	spdx=1,
 	spdy=1,
 	pool={},
+	id=-1,
 
 	x1=0,
 	y1=0,
@@ -17,18 +18,24 @@ balao=entity:extend({
 
 	piece={{},{},{},{},{}},
 
+	toupdate=false,
+
     init=function (_ENV)
 		add(entity.pool,_ENV)
 		if pool != entity.pool then
 			add(pool,_ENV)
 		end
+        h=s
+        w=h*3/4
+		id=#pool
         x1=x
         y1=y
         x2=x
         y2=y
     end,
     update=function (_ENV)
-        
+        toupdate = not toupdate
+		if not toupdate then return end
 		if(spdx<1)spdx+=.1
 		if(spdy<1)spdy+=.1
 
@@ -91,11 +98,9 @@ balao=entity:extend({
 		end
     end,
     draw=function (_ENV)
-        h=s
-        w=h*3/4
 
 
-        c1=12 c2=10
+        c1=12+128 c2=10+128
         c={x=x-offset,y=y}
         t={x=x,y=y-(h/2)}
         l={x=x-(w/2),y=y}
@@ -107,8 +112,8 @@ balao=entity:extend({
         trian(b.x+1,b.y+1,r.x+1,r.y+1,c.x+1,c.y+1,c1)
         --wire
 		for p in all(piece) do
-			line(p.x1+offset,p.y1,p.x2,p.y2,8)
-			-- line(p.x1+(w/2)+1,p.y1,p.x2+(w/2)+1,p.y2,11)
+			line(p.x1,p.y1,p.x2,p.y2,8)
+			-- line(p.x1+offset,p.y1,p.x2,p.y2,8)
 			line(p.x1+(w/2),p.y1,p.x2+(w/2),p.y2,11)
 			line(p.x1+offset+w+2,p.y1,p.x2+w+2,p.y2,8)
 		end

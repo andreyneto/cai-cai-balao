@@ -49,3 +49,49 @@ entity=class:extend({
 		end
 	end
 })
+
+
+--move entity with collision
+function move(e)
+	local col_x = false
+	local col_y = false
+	
+	e.x += e.dx
+	if map_col(e) then
+		e.x -= e.dx
+		e.dx = 0
+		col_x = true
+	end
+	
+	e.y += e.dy
+	if map_col(e) then
+		e.y -= e.dy
+		e.dy = 0
+		col_y = true
+	end
+	
+	return col_x, col_y
+end
+
+
+--map collision
+function map_col(o, f)
+	local f = f or 0
+	local x1 = o.x/8
+	local x2 = (o.x+o.w-1)/8
+	local y1 = o.y/8
+	local y2 = (o.y+o.h-1)/8
+	x1=mid(0,x1,128)
+	x2=mid(0,x2,128)
+	y1=mid(0,y1,128)
+	y2=mid(0,y2,128)
+
+	local a = mget(x1, y1)
+	local b = mget(x1, y2)
+	local c = mget(x2, y1)
+	local d = mget(x2, y2)
+	
+	return fget(a, f) or fget(b, f)
+		or fget(c, f) or fget(d, f)
+		or x1 < 0 or y1 < 0
+end
